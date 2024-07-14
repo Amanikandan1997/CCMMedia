@@ -302,7 +302,7 @@
         min-height: 200px;
     }
     .main-header .logo-navbar {
-        padding: 25px 0;
+        padding: 15px 0;
     }
     .logo {
         padding: 0px;
@@ -313,8 +313,9 @@
     .logo-navbar .navbar button {
         background: rgba(255, 255, 255, .20);
         height: 40px;
-        color: #fff;
+        color: goldenrod;
         float: right;
+        
     }
     #home-slider .caption {
         top: 50px;
